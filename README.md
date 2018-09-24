@@ -13,3 +13,5 @@
 	- 编写总体设计文档中的测试文档
 - 2018年9月14日
 	- 上传完整版总体设计文档（[链接](https://github.com/liuyuxuan0221151603/software-design/blob/master/%E6%80%BB%E4%BD%93%E8%AE%BE%E8%AE%A1.md)）
+- 2018年9月24日
+	- 上传完整版详细设计文档
